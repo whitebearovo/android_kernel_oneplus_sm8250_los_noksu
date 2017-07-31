@@ -1199,3 +1199,5 @@ CONFIG_OPLUS_FEATURE_SIGKILL_DIAGNOSIS=y
 CONFIG_LSM="lockdown,yama,loadpin,safesetid,integrity,selinux,smack,tomoyo,apparmour,bpf"
 
 CONFIG_TECHPACK_CAMERA_ONEPLUS=y
+
+CONFIG_FORCE_FAST_CHARGE=y
